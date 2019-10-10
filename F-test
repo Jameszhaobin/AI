@@ -1,0 +1,2 @@
+double pof(double F, unsigned int df1, unsigned int df2)  
+P = pof(F, dfj, dfn);  //F值，dfj=M-1组间自由度，dfn=n-M组内自由度
